@@ -1,6 +1,6 @@
 {
 	"name":"Emby圆形图标 @w", 
-	"description":"使用WebP格式，仅收录Emby群组/频道的最新头像作为图标，旧图标和停止运营的服定期删除",  
+	"description":"使用WebP格式，仅收录Emby群组/频道的最新头像作为图标，旧图标和停止运营的服定期更新替换",  
 	"icons":
 		[
 			{"name":"105", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/105.webp"},
